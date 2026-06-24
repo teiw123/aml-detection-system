@@ -1,0 +1,19 @@
+# AML Verifier Prototype – Installation Guide
+
+This document explains how to install and run the AML Verifier prototype with automated spot fines.
+
+---
+
+## 1. Requirements
+- [Anaconda](https://www.anaconda.com/download) (Python 3.10 or later)
+- Git (optional, for cloning the repository)
+- Operating System: Windows, macOS, or Linux
+
+---
+
+## 2. Setup Instructions
+
+### Step 1: Clone or Download
+- Clone the repository:
+  ```bash
+  git clone https://github.com/your-org/aml-verifier.git
