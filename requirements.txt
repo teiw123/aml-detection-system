@@ -98,8 +98,6 @@ pydantic==2.13.4
 pydantic_core==2.46.4
 Pygments
 pyparsing
-PyQt6==6.11.0
-PyQt6_sip
 PySocks
 pytest
 pytest-cov==7.1.0
@@ -115,7 +113,6 @@ rfc3987-syntax
 rpds-py
 Send2Trash
 setuptools==82.0.1
-sip
 six
 sniffio
 soupsieve
@@ -140,5 +137,4 @@ webencodings
 websocket-client
 wheel==0.46.3
 widgetsnbextension
-win_inet_pton
 zipp
